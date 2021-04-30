@@ -1,0 +1,10 @@
+C:\Users\Lenovo\source\repos\Chronos\bin\Debug\Chronos.exe.config
+C:\Users\Lenovo\source\repos\Chronos\bin\Debug\Chronos.exe
+C:\Users\Lenovo\source\repos\Chronos\bin\Debug\Chronos.pdb
+C:\Users\Lenovo\source\repos\Chronos\obj\Debug\Chronos.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\Chronos\obj\Debug\Chronos.Form1.resources
+C:\Users\Lenovo\source\repos\Chronos\obj\Debug\Chronos.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\Chronos\obj\Debug\Chronos.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\Chronos\obj\Debug\Chronos.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Chronos\obj\Debug\Chronos.exe
+C:\Users\Lenovo\source\repos\Chronos\obj\Debug\Chronos.pdb
