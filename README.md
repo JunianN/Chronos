@@ -7,4 +7,5 @@ Class Diagram
 
 Database Diagram:
 ![Screenshot (188)](https://user-images.githubusercontent.com/79140318/117396903-26878b00-af25-11eb-99f7-5091246ce57c.png)
-![Screenshot (188)](https://user-images.githubusercontent.com/79140318/117397092-8f6f0300-af25-11eb-9dc2-0033ed021cba.png)
+![Untitled Diagram](https://user-images.githubusercontent.com/79140318/117397133-a4e42d00-af25-11eb-8036-be69e72d5b38.png)
+
