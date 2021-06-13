@@ -3,15 +3,12 @@
 ## Chronos User Guide
 
 Petunjuk dan langkah-langkah menggunakan aplikasi Chronos:
-1. User dapat memasukkan title dari reminder-nya untuk identitas dan mempermudah pencarian reminder.
+1. User dapat memasukkan nomor dan title dari reminder-nya untuk identitas dan mempermudah pencarian reminder.
 2. User mengatur tanggal dan waktu reminder.
 3. User juga dapat menambahkan deskripsi atau notes tambahan apabila diperlukan.
-4. User menekan tombol "ADD" untuk menambahkan reminder ke dalam database dan akan muncul di dalam kotak reminder list, reminder pun juga akan mulai aktif.
-5. Apabila waktu telah sama dengan waktu yang diatur oleh user, maka akan muncul notifikasi yang akan mengingatkan user.
-6. Setelah reminder tersimpan di database, user masih dapat mengubahnya dengan menggunakan rombol "EDIT" dan menghapusnya dengan menggunakan tombol "DELETE".
-7. User juga dapat mencari reminder dengan mengetik keyword di kolom pencarian dan menekan tombol "Search".
-8. User dapat mengurutkan reminder berdasarkan title atau berdasarkan waktu.
-9. Enjoy !
+4. User menekan tombol "NEW" untuk memulai reminder baru, "ADD" untuk menambahkan reminder ke dalam database dan
+akan muncul di dalam kotak reminder list, dan "DELETE" untuk menghapus reminder
+5. User juga dapat mencari reminder dengan mengetik keyword di kolom pencarian dan menekan tombol "Search".
 
 ## Class Diagram
 
